@@ -12,7 +12,6 @@
 
 | 이름 | GitHub 아이디 | 프로필 링크 |
 |------|----------------|--------------|
-| 이형욱 | danielhw99 | https://github.com/danielhw99 |
 | 이하경 | fijitlwkr | https://github.com/fijitlwkr |
 | 정하경 | hathang16 | https://github.com/hathang16 |
 | 이상준 | Ongsaem0 | https://github.com/Ongsaem0 |
